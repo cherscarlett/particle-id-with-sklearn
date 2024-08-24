@@ -1,0 +1,11 @@
+name: particle-id-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - pip
+  - pip:
+    - matplotlib
